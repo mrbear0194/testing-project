@@ -26,6 +26,7 @@ I used Pivot Tables, conditional formatting, aggregation functions, and statisti
 
 
 # Technical Analysis
+Samples of pivot tables used for sales and product trends below. More detailed analysis is contained in the Excel workbook in this repository.
 ![sales](https://github.com/mrbear0194/testing-project/assets/129554366/bf94bca8-79ba-462a-bf6f-2cac5a38aa2c)
 ![product](https://github.com/mrbear0194/testing-project/assets/129554366/49d54f90-8e79-4c81-a90a-a7cfd0d20922)
 
