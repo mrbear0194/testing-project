@@ -5,9 +5,9 @@ I used Pivot Tables, conditional formatting, aggregation functions, and statisti
 
 # Summary of Insights
 **Sales Trends:** 
-    * In 2019, Elist's sales surged from $3.2M to an impressive $8.6M, experiencing a remarkable 165% increase by the end of 2020. 
-    * This substantial growth was mainly driven by explosive sales growth rates of 46% and 50% in February and March 2020, respectively. 
-    * However, in 2021, signs of deceleration appeared with a 10% decrease in sales growth compared to the previous year. The downward trend continued in 2022, with sales      growth plummeting by 44% and total sales reaching $4.3M, just slightly surpassing $1M above their initial 2019 sales.
+* In 2019, Elist's sales surged from $3.2M to an impressive $8.6M, experiencing a remarkable 165% increase by the end of 2020. 
+* This substantial growth was mainly driven by explosive sales growth rates of 46% and 50% in February and March 2020, respectively. 
+* However, in 2021, signs of deceleration appeared with a 10% decrease in sales growth compared to the previous year. The downward trend continued in 2022, with sales      growth plummeting by 44% and total sales reaching $4.3M, just slightly surpassing $1M above their initial 2019 sales.
     
 **Products:**
 * The 27in 4k Gaming Monitor, Apple Airpods Headphones, and Macbook Air Laptop stand out as the top three best-selling products, consistently accounting for approximately 85-86% of total sales each year between 2019 and 2022.
