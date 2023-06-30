@@ -10,7 +10,7 @@ I used Pivot Tables, conditional formatting, aggregation functions, and statisti
 * However, in 2021, signs of deceleration appeared with a 10% decrease in sales growth compared to the previous year. The downward trend continued in 2022, with sales      growth plummeting by 44% and total sales reaching $4.3M, just slightly surpassing $1M above their initial 2019 sales.
     
 **Products:**
-* The 27in 4k Gaming Monitor, Apple Airpods Headphones, and Macbook Air Laptop stand out as the top three best-selling products, consistently accounting for approximately 85-86% of total sales each year between 2019 and 2022.
+* The 27in 4k Gaming Monitor, Apple Airpods Headphones, and Macbook Air Laptop stand out as the top three best-selling products sales wise, consistently accounting for approximately 85-86% of total sales each year between 2019 and 2022.
 * Out of these three products, the Apple Airpods Headphones maintain their position as the consistently most popular item.
 * Additionally, it is noteworthy that although the Macbook Air Laptop maintains an average order rate of 3%, it boasts an impressive average of 21% of total sales.
 
