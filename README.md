@@ -5,7 +5,7 @@ I used Pivot Tables, conditional formatting, aggregation functions, and statisti
 
 # Summary of Insights
 **Sales Trends:** 
-* In 2020, Elist witnessed a remarkable surge in sales, soaring from $3.2 million in 2019 to an impressive $8.6 million by the end of the year, reflecting an astounding 165% increasein sales.
+* In 2020, Elist witnessed a remarkable surge in sales, soaring from $3.2 million in 2019 to an impressive $8.6 million by the end of the year, reflecting an astounding 165% increase in sales.
 * This substantial growth was mainly driven by explosive sales growth rates of 46% and 50% in February and March 2020, respectively. 
 * However, in 2021, signs of deceleration appeared with a 10% decrease in sales growth compared to the previous year. The downward trend continued in 2022, with sales      growth plummeting by 44% and total sales reaching $4.3M, just slightly surpassing $1M above their initial 2019 sales.
     
