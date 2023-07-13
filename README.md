@@ -14,14 +14,14 @@ I used Pivot Tables, conditional formatting, aggregation functions, and statisti
 * Out of these three products, the Apple Airpods Headphones maintain their position as the consistently most popular item.
 * Additionally, it is noteworthy that although the Macbook Air Laptop maintains an average order rate of 3%, it boasts an impressive average of 21% of total sales.
 
-**Loyalty Program**
+**Loyalty Program:**
 * Over the past two years, specifically in 2021 and 2022, the effectiveness of the loyalty program has been increasingly evident. 
 * In 2021, the program generated an additional $500,000 in sales compared to the counterpart without a loyalty program, and in 2022, it further surpassed its counterpart by an even greater margin of $523,000, highlighting its consistent and growing superiority in driving sales.
 
 **Operational Effectiveness:**
 * The average delivery time for all items falls within a range of 7.64 to 7.36 days, indicating a consistent and relatively uniform timeframe. No specific items stand out with significantly longer or shorter delivery times.
 
-**Marketing**
+**Marketing:**
 * The Direct and Email marketing channels collectively constitute the majority of total sales, with Direct marketing accounting for approximately 82% and Email marketing accounting for around 12% of total sales, averaging 94% combined.
 
 
