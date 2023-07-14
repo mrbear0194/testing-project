@@ -1,5 +1,5 @@
 # Portfolio Project - Elist Sales Analysis
-Elist is a sample e-commerce company that sells popular electronics to customers around the world. In this portfolio project, I analyzed a sample dataset to investigate trends in revenue, average order value, marketing channels, and operations to surface insights on overall company performance. I also investigated the effectiveness of their recently launched loyalty program to give recommendations on the continuation of the program.
+Elist is a simulated e-commerce company specializing in popular electronics, catering to a global customer base. This data analysis project focuses on a sample dataset, aiming to uncover key trends in revenue, average order value, marketing channels, and operational aspects. By conducting this analysis, valuable insights regarding the overall company performance are derived. Additionally, an evaluation of the recently launched loyalty program is carried out to provide recommendations on its future viability and potential enhancements
 
 I used Pivot Tables, conditional formatting, aggregation functions, and statistical analysis to clean, analyze, and summarize the insights below, to be delivered to the finance, product, and marketing teams.
 
