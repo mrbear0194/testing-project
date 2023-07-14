@@ -4,12 +4,12 @@ Elist is a simulated e-commerce company specializing in popular electronics, cat
 I used Pivot Tables, conditional formatting, aggregation functions, and statistical analysis to clean, analyze, and summarize the insights below, to be delivered to the finance, product, and marketing teams.
 
 # Summary of Insights
-**Sales:** 
+**Sales Trends:** 
 * In 2020, Elist witnessed a remarkable surge in sales, soaring from $3.2 million in 2019 to $8.6 million by the end of the year, reflecting an astounding 165% increase in sales.
 * This substantial growth was mainly driven by explosive sales growth rates of 46% and 50% in February and March 2020, respectively. 
 * However, in 2021, signs of deceleration appeared with a 10% decrease in sales growth compared to the previous year. The downward trend continued in 2022, with sales      growth plummeting by 44% and total sales reaching $4.3M, just slightly surpassing $1M above their initial 2019 sales.
     
-**Products:**
+**Product Trends:**
 * The 27in 4k Gaming Monitor, Apple Airpods Headphones, and Macbook Air Laptop emerge as the top three sales-generating products, consistently capturing a significant share of approximately 85-86% of total sales each year from 2019 to 2022.
 * Out of these three products, the Apple Airpods Headphones maintain their position as the consistently most popular item.
 * Additionally, it is noteworthy that although the Macbook Air Laptop maintains an average order rate of 3%, it boasts an impressive average of 21% of total sales.
@@ -21,7 +21,7 @@ I used Pivot Tables, conditional formatting, aggregation functions, and statisti
 **Operational Effectiveness:**
 * The average delivery time for all items falls within a range of 7.64 to 7.36 days, indicating a consistent and relatively uniform timeframe. No specific items stand out with significantly longer or shorter delivery times.
 
-**Marketing:**
+**Marketing Channel Trends:**
 * The Direct and Email marketing channels collectively constitute the majority of total sales, with Direct marketing accounting for approximately 82% and Email marketing accounting for around 12% of total sales, averaging 94% combined.
 
 
